@@ -1,4 +1,4 @@
-# Exercício - JS / React - Front-end
+# Exercício - JS / React - Front-endm
 
 Exercício #1 da Semana #9, de nome "Front-end da aplicação". Parte do curso "Explorer", da plataforma de ensino [Rocketseat](https://rocketseat.com.br/).
 
