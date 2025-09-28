@@ -6,6 +6,10 @@ Este exercício é focado no estudo de Front-end e da linguagem JavaScript,
 introduzindo os conceitos de ReactJS, React DOM, Frameworks e Bibliotecas, arquivos .jsx, Vite, Pré-processadores CSS, CSS-in-JS,
 Componentes, props, Styled Components, React Icons e React Router DOM.
 
+<br>
+  <img width="120" height="107" alt="React" src="https://github.com/user-attachments/assets/05b5571e-0f5c-4e57-85b0-76e017e5535b" />
+<br>
+
 # Exercise - JS / React - Front-end
 
 Exercise #1 from Week #9, named "Front-end da aplicação". Part of the program "Explorer", from the online platform [Rocketseat](https://rocketseat.com.br/).
